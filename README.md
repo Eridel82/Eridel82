@@ -1,10 +1,6 @@
 <h1 align="center">¡Hola, soy Eridel! 👋</h1>
-<h3 align="center">Estudiante de Informática | Desarrollador Full Stack | Oaxaca, México 🇲🇽</h3>
+<h3 align="center">Licenciatura en Informática | Desarrollador Full Stack | Oaxaca, México 🇲🇽</h3>
 
-<p align="center">
-  Construyo aplicaciones web prácticas para instituciones locales y proyectos académicos,
-  con enfoque en backends robustos (FastAPI, Node.js) y frontends limpios y funcionales.
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eridel82&label=Visitas%20al%20perfil&color=blueviolet&style=flat" alt="Visitas al perfil" />
@@ -14,20 +10,13 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante de **Licenciatura en Informática** en NOVAUNIVERSITAS, Ocotlán de Morales, Oaxaca
-- 🔭 Actualmente trabajando en un **sistema de calificaciones escolares** (rediseño de base de datos + API con FastAPI)
-- 🏛️ Desarrollé **Sistema Bitácora**, una plataforma de gestión de casos para la Instancia Municipal de la Mujer de San Antonino Castillo Velasco
+- 🎓 **Licenciatura en Informática**
 - 🎮 Interesado en desarrollo de videojuegos, con un proyecto de plataformas en Unity
-- 📄 Investigación de tesis sobre privacidad y accesibilidad en almacenamiento en la nube
 - 💬 Pregúntame sobre Python, FastAPI, bases de datos relacionales o desarrollo web
 
 ---
 
 ### 🛠️ Proyectos destacados
-
-**🗂️ Sistema Bitácora**
-Sistema de gestión de casos para una instancia municipal de atención a mujeres. Incluye autenticación JWT, generación de reportes en PDF (ReportLab + Matplotlib) y una interfaz de 8 páginas con Bootstrap 5.
-`FastAPI` `SQLite` `JWT` `ReportLab` `Bootstrap 5`
 
 **📚 Sistema de Calificaciones**
 Rediseño de una base de datos escolar plana a un esquema normalizado, con script de migración y una API + frontend para la gestión de calificaciones.
@@ -36,14 +25,6 @@ Rediseño de una base de datos escolar plana a un esquema normalizado, con scrip
 **🕹️ Estelar UP**
 Videojuego de plataformas 2D desarrollado en Unity como proyecto académico, incluyendo guion de tráiler para presentación.
 `Unity` `C#`
-
-**☁️ Riesgos de privacidad y beneficios de accesibilidad en la nube** *(Tesis)*
-Guía práctica para estudiantes universitarios sobre privacidad y accesibilidad del almacenamiento en la nube, con estudio piloto y análisis estadístico (Alfa de Cronbach).
-`Investigación` `Metodología` `Análisis de datos`
-
-> 📌 *Tip: agrega aquí los enlaces a los repositorios de cada proyecto, o fija (pin) tus repos favoritos desde tu perfil de GitHub para que aparezcan como tarjetas automáticas.*
-
----
 
 ### 💻 Tecnologías
 
