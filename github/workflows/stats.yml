@@ -1,0 +1,71 @@
+name: Actualizar estadísticas de GitHub
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 03:00 UTC
+    - cron: "0 3 * * *"
+
+  # Permite ejecutarlo manualmente desde Actions
+  workflow_dispatch:
+
+  # También se ejecuta cuando modificas este workflow
+  push:
+    paths:
+      - ".github/workflows/stats.yml"
+
+jobs:
+  stats:
+    name: Generar estadísticas
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Descargar el repositorio
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2. Crear carpeta donde se guardarán las tarjetas
+      - name: Crear carpeta profile
+        run: mkdir -p profile
+
+      # 3. Generar estadísticas generales
+      - name: Generar estadísticas
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          USERNAME: Eridel82
+          SHOW_ICONS: "true"
+          THEME: radical
+          HIDE_BORDER: "true"
+          OUTPUT_PATH: profile/stats.svg
+
+      # 4. Generar tarjeta de lenguajes
+      - name: Generar lenguajes
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          USERNAME: Eridel82
+          LAYOUT: compact
+          THEME: radical
+          HIDE_BORDER: "true"
+          OUTPUT_PATH: profile/top-langs.svg
+
+      # 5. Generar racha de contribuciones
+      - name: Generar racha
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=Eridel82&theme=radical&hide_border=true&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 6. Guardar los SVG en el repositorio
+      - name: Guardar estadísticas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          git commit -m "Actualizar estadísticas de GitHub" || exit 0
+
+          git push
