@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Eridel! 👋</h1>
-<h3 align="center">Licenciatura en Informática | Desarrollador Full Stack | Oaxaca, México 🇲🇽</h3>
+<h3 align="center">Licenciatura en Informática | Desarrollador | Oaxaca, México 🇲🇽</h3>
 
 
 <p align="center">
