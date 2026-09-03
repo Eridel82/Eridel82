@@ -1,11 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Eridel!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+<h1 align="center">Eridel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Licenciatura+en+Inform%C3%A1tica;Oaxaca%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%8C%B1" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="waving hand"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Licenciado+en+Inform%C3%A1tica;Oaxaca%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -86,41 +82,12 @@ Desarrollador enfocado en construir aplicaciones funcionales y bien organizadas,
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eridel82&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eridel82&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eridel82&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eridel82&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trofeos de GitHub"/>
-</p>
-
----
-
-### 🐍 Contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eridel82/Eridel82/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
-> ⚙️ Esta animación de la serpiente **no aparece sola** — necesita un GitHub Action que la genere. Instrucciones abajo.
-
----
-
 ### 📌 Actualmente
 
-- 🌱 Mejorando mis habilidades en desarrollo Full Stack
+- 🌱 Mejorando mis habilidades como desarrollador de software
 - 💻 Trabajando en proyectos personales y académicos
 - 🎯 Enfocado en crear aplicaciones funcionales, organizadas y fáciles de usar
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
 
 <p align="center">⭐ Gracias por visitar mi perfil — <a href="https://github.com/Eridel82">Eridel82</a></p>
