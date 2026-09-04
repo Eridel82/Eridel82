@@ -1,4 +1,4 @@
-<h1 align="center">Eridel</h1>
+<h1 align="center">Eridel Sanchez</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Licenciado+en+Inform%C3%A1tica;Oaxaca%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
